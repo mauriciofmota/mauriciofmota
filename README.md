@@ -23,9 +23,6 @@ I'm a Developer from Brazil. Currently, I'm deep-diving into the world of low-le
 
 ---
 
-### My Current Focus is: EchoEngine
-I am currently building **EchoEngine**, a custom game engine focused on performance and procedural generation.
-
 ### Academic Journey
 I am currently pursuing a degree in **Internet Systems Technology** at **IFB (Instituto Federal de Brasília)**. 
 My current semester (2026/1) focuses on:
