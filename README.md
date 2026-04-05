@@ -38,3 +38,4 @@ Aside from my formal education, I am deep-diving into:
 ### 📫 Reach Me
 * **Working on:** EchoEngine
 * **Ask me about:** C++, Vulkan, Python, Java or just how my day is going :).
+* ![Location](https://img.shields.io/badge/Location-Brazil-green?style=flat-square&logo=googlemaps)
