@@ -1,30 +1,33 @@
+# Hi, I'm Maurício 🤓🖖
 
-### Hi, I'm Maurício 😌​✋​
-I'm a Developer from Brazil. Currently, I'm deep-diving into the world of low-level graphics and engine architecture.
+I'm a Software Engineer from Brazil. Currently, I'm leveraging my strong mathematical foundation in high-performance systems to dive deep into **Computer Vision, Data, and Machine Learning**.
 
----
+### 🎓 Academic Journey
+I am currently pursuing a degree in **Internet Systems Technology** at IFB (Instituto Federal de Brasília), a curriculum strongly aligned with Systems Analysis and Software Engineering. My current semester (2026/1) focuses on:
 
-### Academic Journey
-I am currently pursuing a degree in **Internet Systems Technology** at **IFB (Instituto Federal de Brasília)**. 
-My current semester (2026/1) focuses on:
+*   🌐 **Web Technologies:** Web Development I & Web Design.
+*   💻 **Core Fundamentals:** Programming Logic & Computer Architecture.
+*   📡 **Infrastructure:** Computer Networks & Internet.
+*   🚀 **Practical Application:** Integrated Project I (Developing real-world solutions).
 
-* 🌐 **Web Technologies:** Web Development I & Web Design.
-* 💻 **Core Fundamentals:** Programming Logic & Computer Architecture.
-* 📡 **Infrastructure:** Computer Networks & Internet.
-* 🚀 **Practical Application:** Integrated Project I.
+### 🧠 Technical Focus & Learning
+Aside from my formal education, I am transitioning my expertise in low-level rendering pipelines into the world of AI:
 
----
-
-### Technical Focus & Learning
-Aside from my formal education, I am deep-diving into:
-- **Low-level Graphics:** Studying the **Vulkan API**.
-- **Systems Programming:** Mastering **C++** for performance and **C#** for engine tooling.
+*   **Data & Automation:** Structuring datasets, data cleaning, and asynchronous web scraping using **Python** (Pandas, NumPy, BeautifulSoup).
+*   **AI & Computer Vision:** Applying my background in linear algebra and matrix processing (previously used in Vulkan/Graphics) to understand Machine Learning models and Digital Image Processing.
+*   **High-Performance Systems:** Maintaining strong architectural logic, memory management, and Object-Oriented Programming with **C++**.
 
 ### 🧰 Tech Stack & Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
+
+*“Structuring logic and optimizing performance, from data pipelines to system architecture.”*
