@@ -12,7 +12,9 @@ I am currently pursuing a degree in **Internet Systems Technology** at IFB (Inst
 
 ### 🧠 Technical Focus & Learning
 
-[![and-ware Project](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format&fit=crop)](https://github.com/mauriciofmota/and-ware)
+<a href="https://github.com/mauriciofmota/and-ware">
+  <img src="https://raw.githubusercontent.com/mauriciofmota/and-ware/main/dashboard-preview.png" width="450px" alt="and-ware Visual Dashboard" />
+</a>
 _An automated 8-bit Virtual Machine simulator architecture built from the ground up featuring a custom instruction set, a Python-driven two-pass cross-compiler pipeline, and a real-time reactive web dashboard panel framework layout._
 
 *   **Data & Automation:** Structuring datasets, data cleaning, and asynchronous web scraping using **Python** (Pandas, NumPy, BeautifulSoup).
