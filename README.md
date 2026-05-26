@@ -1,4 +1,4 @@
-# Hi, I'm Maurício 🤓🖖
+# Hi, I'm Maurício
 
 I'm a Software Engineer from Brazil. Currently, I'm leveraging my strong mathematical foundation in high-performance systems to dive deep into **Computer Vision, Data, and Machine Learning**.
 
@@ -11,7 +11,10 @@ I am currently pursuing a degree in **Internet Systems Technology** at IFB (Inst
 *   🚀 **Practical Application:** Integrated Project I (Developing real-world solutions).
 
 ### 🧠 Technical Focus & Learning
-Aside from my formal education, I am transitioning my expertise in low-level rendering pipelines into the world of AI:
+
+[![and-ware Visual Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=mauriciofmota&repo=and-ware&theme=tokyonight&show_owner=true)](https://github.com/mauriciofmota/and-ware)
+
+_An automated 8-bit Virtual Machine simulator architecture built from the ground up featuring a custom instruction set, a Python-driven two-pass cross-compiler pipeline, and a real-time reactive web dashboard panel framework layout._
 
 *   **Data & Automation:** Structuring datasets, data cleaning, and asynchronous web scraping using **Python** (Pandas, NumPy, BeautifulSoup).
 *   **AI & Computer Vision:** Applying my background in linear algebra and matrix processing (previously used in Vulkan/Graphics) to understand Machine Learning models and Digital Image Processing.
@@ -20,7 +23,9 @@ Aside from my formal education, I am transitioning my expertise in low-level ren
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
