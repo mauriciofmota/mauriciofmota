@@ -15,6 +15,7 @@ I am currently pursuing a degree in **Internet Systems Technology** at IFB (Inst
 <a href="https://github.com/mauriciofmota/and-ware">An automated 8-bit Virtual Machine simulator architecture</a> built from the ground up featuring a custom instruction set, a Python-driven two-pass cross-compiler pipeline, and a real-time reactive web dashboard.
 ---
 <a href="https://github.com/mauriciofmota/batchdata">A python script to automate X profile opening read from a csv file</a>.
+---
 
 *   **Data & Automation:** Structuring datasets, data cleaning, and asynchronous web scraping using **Python** (Pandas, NumPy, BeautifulSoup).
 *   **AI & Computer Vision:** Applying my background in linear algebra and matrix processing (previously used in Vulkan/Graphics) to understand Machine Learning models and Digital Image Processing.
