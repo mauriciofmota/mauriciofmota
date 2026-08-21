@@ -20,8 +20,6 @@ A scalable architecture for Unity 6+ built with C#. It features a zero-allocatio
 A Python-based automation script designed to parse CSV datasets and automate asynchronous profile interactions on X (Twitter), streamlining repetitive data-entry and scraping tasks.
 
 ---
-<a href="https://github.com/mauriciofmota/and-ware"><b>And-Ware — 8-bit Virtual Machine Architecture</b></a><br>
-An automated 8-bit VM simulator built from the ground up featuring a custom instruction set, a Python-driven two-pass cross-compiler pipeline, and a real-time reactive web dashboard.
 
 ### 🧰 Tech Stack & Tools
 
